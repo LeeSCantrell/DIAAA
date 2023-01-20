@@ -8,4 +8,5 @@ DIAAA is organized in a tab architecture with conventional processing group step
 Instructions for app use are written in the .R file header, but installation of all packages through CRAN, BioConductor and Github should be done using provided code. Once installed, the app can be run by selecting "Run App" in the RStudio environment. If the app opens in a viewer window within RStudio, the pane can be exported to a web browser with appropriate clickbutton adjacent to the viewer window. Setting the viewer window to default to web browser can be done in the dropdown menu conjugated to the "Run App" button. 
 
 After loading the app into a viewer pane, file operations follow logical steps for rapid processing on most personal-grade workstations. 
+![DIA3 scheme](https://user-images.githubusercontent.com/51462100/213589603-9d169e29-6b2e-4b0f-9c26-e77d06c7a531.png)
 
